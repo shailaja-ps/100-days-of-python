@@ -1,5 +1,3 @@
-Here's a clean and professional `README.md` for your **100 Days of Python** repository.
-
 # 🐍 100 Days of Python
 
 This repository contains my solutions and projects completed while following **Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp**.
@@ -46,4 +44,3 @@ This repository serves as a record of my learning journey and showcases my progr
 
 ⭐ Feel free to explore the projects and follow along with my Python learning journey!
 
-You can also add badges (Python version, GitHub stars, last commit) later if you want a more polished GitHub profile.
